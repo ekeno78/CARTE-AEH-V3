@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carte Interactive</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #title {
+            text-align: center;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div id="title">
+        <img src="photo/titre.jpg" alt="Titre de l'image" style="width: 100%;">
+
+        <div id="code">
+            <center><img src="photo/code-couleur.jpg" alt="code couleur" style="width: 60%;"></center>
+        </div>
+
+        <div id="soutien">
+            <img src="photo/soutien.jpg" alt="soutien" style="width: 85%;">
+        </div>
+
+
+    </div>
+
+    <div id="map"></div>
+
+    <!-- Chargement de la bibliothèque Leaflet -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- Inclusion des données de la carte depuis un fichier JSON -->
+    <script src="data/data.json"></script>
+
+    <!-- Inclusion du script JavaScript -->
+    <script src="script/app.js"></script>
+
+</body>
+
+<!-- lien de la carte :   https://ekeno78.github.io/CARTE-AEH/ -->
+
+</html>

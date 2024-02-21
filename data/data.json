@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Togo, Lomé",
+        "latitude": 8.6259,
+        "longitude": 0.8325,
+        "type": "type2",
+        "description": "ONG ANGE",
+        "photo": "photo/logo-ange.jpg",
+        "lien":"https://www.ong-ange.com/"
+    },  
+    {
+        "name": "Togo, Tchekpo Dedekpoé",
+        "latitude": 6.536476299999999,
+        "longitude": 1.3638041,
+        "type": "type1",
+        "description": "Jeune acteur de changement",
+        "photo": "photo/JAC.png",
+        "lien":"https://www.facebook.com/JeuneActeursdeChangement/"
+    },  
+    {
+        "name": "Togo, Dé Kopé",
+        "latitude": 6.27444,
+        "longitude": 1.2825,
+        "type": "type1",
+        "description": "ANGE + Mon refuge",
+        "photo": "photo/monrefuge.jpg",
+        "lien":"https://kbs-frb.be/fr/ange-mon-refuge"
+    },
+    {
+        "name": "France",
+        "latitude": 48.862725,
+        "longitude": 2.287592,
+        "type": "type1",
+        "description": " Notre ADN ! ",
+        "photo": "photo/aeh.jpg",
+        "lien":"https://www.avenirenheritage.com"
+    },
+    {
+        "name": "Lycée Saint André à Niort",
+        "latitude": 46.3237,
+        "longitude": -0.4646,
+        "type": "type3",
+        "description": " Découvrez l'escape game : Mond'défi pour demain",
+        "photo": "photo/niort.jpg",
+        "lien":"https://www.graine-nouvelle-aquitaine.fr/missions-et-actions/dispositifs-pedagogiques/166-mond-defi-pour-demain-c-est-maintenant.html"
+    },
+    {
+        "name": "La Rochelle",
+        "latitude": 46.1591,
+        "longitude": -1.1529,
+        "type": "type2",
+        "description" : "Venez découvrir les goûters linguistiques et les Apays'ros",
+        "photo": "photo/apaysros.jpg",
+        "lien":"https://www.avenirenheritage.com/apaysro"
+    },
+    {
+        "name": "La Rochelle, l'espace Encan 'Les Papilles du Monde' ",
+        "latitude":  46.15089,
+        "longitude": -1.15069,
+        "type": "type1",
+        "description" : " Venez découvrir cet évenement !",
+        "photo": "photo/encan.jpg",
+        "lien":"https://www.avenirenheritage.com/papilles-du-monde"
+    },
+    {
+        "name": "Lycée Valin à La Rochelle",
+        "latitude": 46.15604,
+        "longitude": -1.13589,
+        "type": "type3",
+        "description": " découvre l'escape game : Mond'défi pour demain",
+        "photo": "photo/valin.jpg",
+        "lien":"https://www.graine-nouvelle-aquitaine.fr/missions-et-actions/dispositifs-pedagogiques/166-mond-defi-pour-demain-c-est-maintenant.html"
+   
+    },
+    {
+        "name": "Lycée Louis Delage à Rochefort",
+        "latitude": 45.9333,
+        "longitude": -0.9667,
+        "type": "type3",
+        "description": "Venez découvrir le concours : Exp'Ose",
+        "photo": "photo/rochefort.jpg",
+        "lien":"https://www.radsi.org/expose"
+    },
+    {
+        "name": "Lycée Fénelon Notre Dame",
+        "latitude": 46.16558,
+        "longitude": -1.15002,
+        "type": "type3",
+        "description": "Venez découvrir le concours : Exp'Ose",
+        "photo": "photo/fenelon.jpg",
+        "lien":"https://www.radsi.org/expose"
+    },
+    {
+        "name": "Les Minimes, Excelia",
+        "latitude": 46.14114,
+        "longitude": -1.15532,
+        "type": "type2",
+        "description" : "viens découvrir l'Escape Game 'Mond'Défi pour demain et nos formations",
+        "photo": "photo/excelia.jpg",
+        "lien":"https://www.avenirenheritage.com/superieur"
+    },
+    {
+        "name": "Cognac",
+        "latitude": 45.6925,
+        "longitude": -0.3307,
+        "type": "type3",
+        "description": "participation aux quart de final du concours Exp'ose",
+        "photo": "photo/cognac.jpg",
+        "lien":"https://www.radsi.org/expose"
+    },
+    {
+        "name": "La Rochelle universités",
+        "latitude": 46.13774,
+        "longitude": -1.15185,
+        "type": "type2",
+        "description" : "Formations et fresque du climat",
+        "photo": "photo/larochelle-univ.jpg",
+        "lien":"https://www.avenirenheritage.com/superieur"
+    },
+    {
+        "name": "Universités de Poitiers",
+        "latitude": 46.58819,
+        "longitude": 0.34560,
+        "type": "type2",
+        "description" : "viens découvrir nos formations et le projet Fresque du climat",
+        "photo": "photo/poitiers-univ.jpg",
+        "lien":"https://www.avenirenheritage.com/superieur"
+    },
+    {
+        "name": "Restaurant Petit Paris",
+        "latitude": 6.1379,
+        "longitude": 1.2127,
+        "type": "type2",
+        "description" : "Découvre nos actions à l'internationale",
+        "photo": "photo/tchekpo.jpg",
+        "lien":"https://www.goafricaonline.com/tg/367104-petit-paris-restaurants-lome-togo"
+    },
+    {
+        "name": "Centre Intiganda, Butare, RWANDA : Centre d’enfants des rues",
+        "latitude": -2.6050,
+        "longitude": 29.7307,
+        "type": "type3",
+        "description" : "Découvre nos actions à l'internationale",
+        "photo": "photo/rwanda.jpg",
+        "lien":"https://www.children-help-network.ch/francais/rwanda-centre-pour-enfants-de-la-rue/#:~:text=Accueil%3A%20Le%20centre%20est%20un,Gagner%20leur%20confiance%20est%20primordial."
+    },
+    {
+        "name": "Soutien de la famille de Zainabou",
+        "latitude": -1.9403,
+        "longitude": 29.8739,
+        "type": "type1",
+        "description" : "Découvre nos actions à l'internationale",
+        "photo": "photo/rwanda.jpg",
+        "lien":"https://www.avenirenheritage.com/superieur"
+    },
+    {
+        "name": "Centre Médical Pédiatrique Persis au Burkina Faso",
+        "latitude": 12.2383,
+        "longitude": 1.5616,
+        "type": "type2",
+        "description" : "Découvre nos actions à l'internationale",
+        "photo": "photo/burkina.jpg",
+        "lien":"https://www.fondationpierrefabre.org/fr/programmes-en-cours/acces-aux-soins-de-qualite/soutien-au-centre-medico-chirurgical-pediatrique-persis/"
+    },
+    {
+        "name": "Maroc Association Club Sportif ASSOUAR Full-Contact, Kick &amp; Thai-Boxing",
+        "latitude": 31.7917,
+        "longitude": 7.0926,
+        "type": "type3",
+        "description" : "Découvre nos actions à l'internationale",
+        "photo": "photo/maroc.jpg",
+        "lien":"https://www.boxepiedspoings.fr/Club-Sportif-Assouar-Taroudant.html"
+    }
+]
